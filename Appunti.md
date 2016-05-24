@@ -16,4 +16,4 @@
 |rm _nomefile_|Elimina un file|
 |mkdir _nomecartella_|Crea una cartella|
 |rmdir _nomecartella_|Elimina una cartella|
-
+|Ctrl+c|Interrompe il comando|
