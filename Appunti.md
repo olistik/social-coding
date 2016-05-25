@@ -2,7 +2,7 @@
 
 |Codice|Risultato|
 |-----|---------|
-|Ctrl+Shift+P|Apre la _Command Palette_|
+|CTRL+SHIFT+P|Apre la _Command Palette_|
 
 ### Comandi della _Command Palette_
 
